@@ -1,2 +1,2 @@
 # JAVA-Projects
-Here are all of my JAVA projects
+Here are runnable java files of all my JAVA projects
